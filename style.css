@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+.gradient {
+    background-image: linear-gradient(to left, rgb(255, 8, 0), rgb(20, 181, 230));
+    -webkit-background-clip: text;
+    background-clip: none;
+    color: transparent;
+}
+body {
+    background-image:linear-gradient(black, rgb(20, 6, 20));
+    color:cyan;
+    font-family:ubuntu;
+}
+a {
+    text-decoration: none;
+}
