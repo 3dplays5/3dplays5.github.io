@@ -6,8 +6,8 @@
     color: transparent;
 }
 body {
-    background-image:black;
-    color:cyan;
+    background-image:rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
     font-family:ubuntu;
 }
 a {
