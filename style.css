@@ -6,7 +6,7 @@
     color: transparent;
 }
 body {
-    background-image:linear-gradient(black, rgb(20, 6, 20));
+    background-image:black;
     color:cyan;
     font-family:ubuntu;
 }
