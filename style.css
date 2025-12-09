@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+
+body {
+    font-family:'jersey 10';
+    background-image: url('images/nap-time.gif');
+    color:#ffffff;
+    font-size: 25px;
+}
+.header {
+    text-align:center;
+    margin-top:40px;
+
+}
+.middlebox {
+    border-style:double;
+    margin: 0 auto;
+    width: 895px;
+    height:1080px;
+    overflow-y:auto;
+    overflow-x:auto;
+    float:left;
+}
+.pfp {
+    border-style:double;
+    width:128px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:20px;
+}
+.centertext{
+    text-align:center;
+    margin-left:10px;
+    margin-right:10px;
+}
+.leftbox{
+    text-align:center;
+    border-style:double;
+    width:256px;
+    height:1080px;
+    float:left;
+    margin-left: 12.5%;
+}
+audio::-webkit-media-controls {
+    display: none;
+
+}
+.link{
+    font-size:30px;
+    color:red;
+}
+.bigmiddle{
+    font-size:50px;
+    color:purple;
+}
+.box{
+    display:block;
+}
