@@ -5,6 +5,7 @@ body {
     background-image: url('images/nap-time.gif');
     color:#ffffff;
     font-size: 25px;
+    cursor: url('images/230509.png'), auto;
 }
 .header {
     text-align:center;
@@ -14,15 +15,15 @@ body {
 .middlebox {
     border-style:double;
     margin: 0 auto;
-    width: 895px;
-    height:1080px;
+    width: 48%;
+    height:85%;
     overflow-y:auto;
     overflow-x:auto;
     float:left;
 }
 .pfp {
     border-style:double;
-    width:128px;
+    width:50%;
     display:block;
     margin-left:auto;
     margin-right:auto;
@@ -36,8 +37,8 @@ body {
 .leftbox{
     text-align:center;
     border-style:double;
-    width:256px;
-    height:1080px;
+    width:13%;
+    height:85%;
     float:left;
     margin-left: 12.5%;
 }
