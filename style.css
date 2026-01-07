@@ -20,6 +20,7 @@ body {
     overflow-y:auto;
     overflow-x:auto;
     float:left;
+    
 }
 .pfp {
     border-style:double;
@@ -60,4 +61,7 @@ audio::-webkit-media-controls {
 .embed{
     height: 85vh;
     width: 95vh;
+}
+.text{
+    margin-left: 10px;
 }
