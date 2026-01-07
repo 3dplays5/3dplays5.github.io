@@ -15,8 +15,8 @@ body {
 .middlebox {
     border-style:double;
     margin: 0 auto;
-    width: 48%;
-    height:85%;
+    width: 100vh;
+    height: 85vh;
     overflow-y:auto;
     overflow-x:auto;
     float:left;
@@ -38,7 +38,7 @@ body {
     text-align:center;
     border-style:double;
     width:13%;
-    height:85%;
+    height: 85vh;
     float:left;
     margin-left: 12.5%;
 }
@@ -56,4 +56,8 @@ audio::-webkit-media-controls {
 }
 .box{
     display:block;
+}
+.embed{
+    height: 85vh;
+    width: 95vh;
 }
